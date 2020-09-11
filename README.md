@@ -12,5 +12,6 @@ The upper management of Pewlett-Hackard has asked us to prepare several lists of
 ## Results
 
 ERD diagramm:
+
 ![](resources/QuickDBD-Pewlett_Hackard.png)
 
