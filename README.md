@@ -9,3 +9,8 @@ The upper management of Pewlett-Hackard has asked us to prepare several lists of
 - Data Source: departments.csv, employees.csv, titles.csv, salaries.csv, dept_emp.csv, dept_manager.csv
 - Software: QuickDBD, PostgresSQL 11, pgAdmin 4.24
 
+## Results
+
+ERD diagramm:
+![](resources/QuickDBD-Pewlett_Hackard.png)
+
